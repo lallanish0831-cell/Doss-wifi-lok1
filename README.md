@@ -26,7 +26,7 @@ Router Attack Termux 🚀
    ```
 3. Клонируйте репозиторий (или скачайте скрипт вручную):
    ```bash
-   git clone https://github.com/lallanish0831-cell/router_attack_termux.git
+   git clone https://github.com/lallanish0831-cell/Doss-wifi-lok1.git
    cd router_attack_termux
    ```
 4. Запустите скрипт:
